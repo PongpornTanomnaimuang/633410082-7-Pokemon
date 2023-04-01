@@ -1,4 +1,4 @@
-# pokedex02
+# pokedexname
 
 A new Flutter project.
 
